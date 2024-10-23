@@ -6,7 +6,7 @@ Sorunu anladıktan sonra veri setimi yükledim ve incelemeye başladım.
 
 Balık ggörsellerinin yollarını ve etiketlerini bir dataframe'e aktardım.
 
-Bu dataframe'Deki verileri anlamlandırmaya ve bilgiye erişmeye çalıştım.
+Bu dataframe'deki verileri anlamlandırmaya ve bilgiye erişmeye çalıştım.
 
 Bu verileri görselleştirerek daha da yakından inceledim.
 
